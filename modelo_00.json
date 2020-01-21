@@ -2,11 +2,8 @@
 "nomeModelo": "Modelo Silagem de Milho",
 "versao": "0",
 "ativo": 0,
-"beta":  ,
-"coeficientes": 
-
-   {
-      "B_0": "11,45919",
+"beta": 11.45919 ,
+"coeficientes": {
       "1143,5": "-1914,953",
       "1144": "-1997,38",
       "1144,5": "-2084,251",
@@ -1184,9 +1181,7 @@
       "2491": "6193,391",
       "2491,5": "6209,188",
       "2492": "6162,46"
-   }
-  
-},
+}
 "uploadDatatime": 0,
-"updateDatatime": 0
+"updateDatatime": 0}
 }
