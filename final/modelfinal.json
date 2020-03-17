@@ -34247,6 +34247,9 @@
       "Factor-12": 0.000002838672
    }
 ],
+"res_y": 1.018E-1,
+"res_x_tot": 1.545E-13,
+"a": 9,
 "uploadDatatime": 0,
 "updateDatatime": 0
 }
